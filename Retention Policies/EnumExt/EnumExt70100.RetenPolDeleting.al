@@ -1,4 +1,4 @@
-enumextension 70550 MyEnumExtension extends "Reten. Pol. Deleting"
+enumextension 70550 RetenPolDeletingExtension extends "Reten. Pol. Deleting"
 {
     value(70550; OrderDeleting)
     {
